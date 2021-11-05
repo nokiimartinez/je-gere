@@ -1,3 +1,4 @@
+/* CSS App.js */
 .App {
   text-align: center;
 }
@@ -35,4 +36,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* CSS header.js */
+
+.header{
+  background-color: blue;
+}
+
+/* CSS navbar.js */
+
+.navbar{
+  background-color: red;
 }
